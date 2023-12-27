@@ -9,3 +9,6 @@
 ##### H5 says, "Because H1 ate H6!"
 
 ###### H6: x.x
+
+![funny image about internet explorer being slow](https://atlascorps.org/wp-content/uploads/2013/08/funny-internet-browsers.jpg)
+
